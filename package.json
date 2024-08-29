@@ -1,0 +1,33 @@
+{
+  "name": "car_club_website",
+  "version": "1.0.0",
+  "description": "Project using HTML, SaSS, JavaScript, NPM",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ronmycode/car_club_website.git"
+  },
+  "keywords": [
+    "Begginer",
+    "Vanilla",
+    "JavaScript",
+    "Website",
+    "Car",
+    "Club",
+    "SaSS",
+    "Gulp",
+    "NPM"
+  ],
+  "author": "Ronee Rodriguez @Ronmycode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronmycode/car_club_website/issues"
+  },
+  "homepage": "https://github.com/Ronmycode/car_club_website#readme",
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}
